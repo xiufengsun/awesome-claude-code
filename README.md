@@ -702,6 +702,8 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Observability & Monitoring
 
+- [TokenTracker](https://www.tokentracker.cc) - Local-first AI token usage and cost tracker for Claude Code, Codex, Cursor, Gemini, Copilot and more. Privacy-first (never reads prompts). CLI + native apps. ([GitHub](https://github.com/xiufengsun/TokenTracker))
+
 - [bough](https://github.com/nickelsec/bough) by [nickelsec](https://github.com/nickelsec) - Reads Claude Code JSONL session transcripts and draws a project's history as a creatively-styled diagram: a day, the tasks inside it, and every prompt, with the ones that ended in a commit marked. Segments work from pauses in the record rather than anything the user labelled, and prompts can be searched by the words they contain.  
 <img src="https://img.shields.io/github/created-at/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/nickelsec/bough?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
@@ -879,3 +881,4 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [Awesome Claude Code Mods](https://github.com/karanb192/awesome-claude-code-mods) by [Karan Bansal](https://github.com/karanb192) - A community list of Claude Code mods built with function hooks. Scans public GitHub repositories and shows what the validator reports each mod can read, write, run or send over the network.  
 <img src="https://img.shields.io/github/created-at/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
